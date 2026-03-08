@@ -1,6 +1,9 @@
 Primera línea
 Línea de master
 uno
+tres
+tres
 dos
 dos
 linea local
+linea global
